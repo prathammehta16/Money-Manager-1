@@ -25,8 +25,8 @@ the globe were more likely to take
 debt to fulfil their personal 
 requirements.
  By the late 1990, credit cards 
-accounted for $444 billion of debt. 
-About 17 percent of disposable 
+accounted for <b>$444</b> billion of debt. 
+About <b>17</b> percent of disposable 
 income
 was spent making installment 
 payments on credit card 
@@ -37,27 +37,27 @@ that they are in the group of winners.
 
 ## <b>Our Approach</b>:
 <p>
-First of all we wrote a code in python file named [input]("https://github.com/prathammehta16/Money-Manager-1/blob/main/input.py") to take the input from the user in the format (Sr No.,Date,Amount,Description,Category) and store all
-the records in the file named 'MoneyManager.csv'. Then we wrote a program in the file 'Money-manager.py' to read the input from the csv file and then we did some 
-feature extraction on the data(like removing,merging some data, etc). Then we converted the dated in to the format MM-YYYY using pd.to_datetime() function.
+ First of all we wrote a code in python file named <u>'input.py'</u> to take the input from the user in the format (Sr No.,Date,Amount,Description,Category) and store all
+ the records in the file named <u>'MoneyManager.csv'</u>. Then we wrote a program in the file <u>'Money-manager.py'</u> to read the input from the csv file and then we did some 
+feature extraction on the data(like removing,merging some data, etc). Then we converted the dated in to the format <b>MM-YYYY</b> using <b>pd.to_datetime()</b> function.
 And then we made the first graph i.e. 
-<br>1. the 'Net worth chart' using plotly.graph_objects where the x-axis is date and y-axis is Amount.
+ <br>1. the <b>'Net worth chart'</b> using plotly.graph_objects where the x-axis is date and y-axis is Amount.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/net_worth.png">
 </p>
-2. Then we made a pie chart using plotly to display expenses per category. 
+2. Then we made a <b>pie chart</b> using plotly to display expenses per category. 
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/pie_chart.png">
 </p>
-3. Then we made a line chart called "Expenses_Breakdown_chart" which shows expenses on a category on a particular date.
+3. Then we made a line chart called <b>"Expenses_Breakdown_chart"</b> which shows expenses on a category on a particular date.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/expenses_breakdown.png">
 </p>
-4. Then we made a bar graph to show the total monthly expenses.
+4. Then we made a <b>bar graph</b> to show the total monthly expenses.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/total_monthly.png">
 </p>
-5. Then we also used Facebook Prophet neural network to predict future expenses that the user might incurr.
+5. Then we also used <b>Facebook Prophet neural network</b> to predict future expenses that the user might incurr.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/facebook_prophet(1).png">
 </p>
