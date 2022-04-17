@@ -37,7 +37,7 @@ that they are in the group of winners.
 
 ## <b>Our Approach</b>:
 <p>
-First of all we wrote a code in python file named [input.py](https://github.com/prathammehta16/Money-Manager-1/blob/main/input.py) to take the input from the user in the format (Sr No.,Date,Amount,Description,Category) and store all
+First of all we wrote a code in python file named [input]("https://github.com/prathammehta16/Money-Manager-1/blob/main/input.py") to take the input from the user in the format (Sr No.,Date,Amount,Description,Category) and store all
 the records in the file named 'MoneyManager.csv'. Then we wrote a program in the file 'Money-manager.py' to read the input from the csv file and then we did some 
 feature extraction on the data(like removing,merging some data, etc). Then we converted the dated in to the format MM-YYYY using pd.to_datetime() function.
 And then we made the first graph i.e. 
