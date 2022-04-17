@@ -1,0 +1,155 @@
+Sr No.,Date,Amount,Description,Category
+1,01-07-2021,100000,Salary,Income
+2,02-07-2021,-2200,Party to friends,Social Life
+3,03-07-2021,-560,Sapiens(book),Self Development
+4,04-07-2021,-10600,Facewash and other hair produts,Beauty
+5,05-07-2021,-2040,household items,household
+6,06-07-2021,-15000,litle brothers education,Education
+7,07-07-2021,360,Dividend from stock,income
+8,08-07-2021,100,sent by a friend,income
+9,09-07-2021,-1000,Gym,Self Development
+10,10-07-2021,-250,pizza,Food
+11,11-07-2021,-850,to milkman,Household
+12,12-07-2021,-510,to maid,Household
+13,13-07-2021,299,transfer from papa account to mine,income
+14,14-07-2021,-2500,medicine,Health
+15,15-07-2021,-50,cab from akota to gotri,Transportation
+16,16-07-2021,-2500,clothes shopping,Apprel
+17,17-07-2021,-14600,new phone,Other
+18,18-07-2021,-35,stationary items,Other
+19,19-07-2021,-1900,Electricity bill,Household
+20,20-07-2021,-540,health checkup,Health
+21,21-07-2021,-236,snacks and soda,Food
+22,22-07-2021,-105,movie with friends,Social Life
+23,23-07-2021,-3450,online subscriptions,Social Life
+24,24-07-2021,-104,buying food ingredients,Household
+25,25-07-2021,-3120,monthly transportation costs,Transportation
+26,26-07-2021,1540,transfer from mummy account,income
+27,27-07-2021,-4120,monthly food cost,Food
+28,28-07-2021,-40,buying panner,Food
+29,29-07-2021,-550,Doctor's Appointment,Health
+30,30-07-2021,-240,Going to gamezone with friends,Social Life
+31,01-08-2021,102070,Dividend,income
+32,02-08-2021,-110,buying paneer,Food
+33,02-08-2021,-460,buying book,Self Development
+34,03-08-2021,460,bonus salary,Income
+35,04-08-2021,-85,rickshaw,Transportation
+36,05-08-2021,-440,to maid,Household
+37,06-08-2021,-260,medicine,Health
+38,07-08-2021,-1400,health insurance,Health
+39,08-08-2021,150,lottery,Other
+40,09-08-2021,-510,movie and party,Social Life
+41,10-08-2021,-250,diwali gifts,Culture
+42,11-08-2021,-4500,new utensils,Household
+43,12-08-2021,-5100,yoga,Self Development
+44,13-08-2021,-45,chocolate,Food
+45,14-08-2021,-50,pen,Other
+46,15-08-2021,-210,mobile recharge,Other
+47,01-09-2021,106000,Salary,Income
+48,02-09-2021,-3790,Party to friends,Social Life
+49,03-09-2021,-565,Sapiens(book),Self Development
+50,04-09-2021,-1130,Facewash and other hair produts,Beauty
+51,05-09-2021,-2000,household items,household
+52,06-09-2021,-12060,litle brothers education,Education
+53,07-09-2021,420,Dividend from stock,income
+54,08-09-2021,1650,sent by a friend,income
+55,09-09-2021,-2400,Gym,Self Development
+56,10-09-2021,-250,pizza,Food
+57,11-09-2021,-812,to milkman,Household
+58,12-09-2021,-502,to maid,Household
+59,13-09-2021,221,transfer from papa account to mine,income
+60,14-09-2021,-2950,medicine,Health
+61,15-09-2021,-75,cab from akota to gotri,Transportation
+62,16-09-2021,-3486,clothes shopping,Apprel
+63,17-09-2021,-14654,new phone,Other
+64,18-09-2021,-35,stationary items,Other
+65,19-09-2021,-2951,Electricity bill,Household
+66,20-09-2021,-531,health checkup,Health
+67,21-09-2021,-265,snacks and soda,Food
+68,22-09-2021,-138,movie with friends,Social Life
+69,23-09-2021,-3160,online subscriptions,Social Life
+70,24-09-2021,-105,buying food ingredients,Household
+71,25-09-2021,-3168,monthly transportation costs,Transportation
+72,26-09-2021,1687,transfer from mummy account,income
+73,27-09-2021,-4955,monthly food cost,Food
+74,28-09-2021,-40,buying panner,Food
+75,29-09-2021,-565,Doctor's Appointment,Health
+76,30-09-2021,-218,Going to gamezone with friends,Social Life
+77,01-10-2021,102045,Dividend,income
+78,02-10-2021,256,bonus salary,Income
+79,02-10-2021,-432,buying book,Self Development
+80,03-10-2021,-50,buying chocolate,Food
+81,04-10-2021,-80,rickshaw,Transportation
+82,05-10-2021,-462,to maid,Household
+83,06-10-2021,-213,medicine,Health
+84,07-10-2021,-2355,health insurance,Health
+85,08-10-2021,106,lottery,Other
+86,09-10-2021,-505,movie and party,Social Life
+87,10-10-2021,-2150,diwali gifts,Culture
+88,11-10-2021,-500,new utensils,Household
+89,12-10-2021,-550,yoga,Self Development
+90,13-10-2021,-45,chocolate,Food
+91,14-10-2021,-54,pen,Other
+92,15-10-2021,-254,mobile recharge,Other
+93,01-11-2021,105400,Salary,Income
+94,02-11-2021,-2024,Party to friends,Social Life
+95,03-11-2021,-502,Sapiens(book),Self Development
+96,04-11-2021,-1160,Facewash and other hair produts,Beauty
+97,05-11-2021,-2446,household items,household
+98,06-11-2021,-11600,litle brothers education,Education
+99,07-11-2021,455,Dividend from stock,income
+100,08-11-2021,1054,sent by a friend,income
+101,09-11-2021,-1060,Gym,Self Development
+102,10-11-2021,-208,pizza,Food
+103,11-11-2021,-865,to milkman,Household
+104,12-11-2021,-565,to maid,Household
+105,13-11-2021,254,transfer from papa account to mine,income
+106,14-11-2021,-3168,medicine,Health
+107,15-11-2021,-50,cab from akota to gotri,Transportation
+108,16-11-2021,-2684,clothes shopping,Apprel
+109,17-11-2021,-14185,new phone,Other
+110,18-11-2021,-35,stationary items,Other
+111,19-11-2021,-1954,Electricity bill,Household
+112,20-11-2021,-501,health checkup,Health
+113,21-11-2021,-205,snacks and soda,Food
+114,22-11-2021,-101,movie with friends,Social Life
+115,23-11-2021,-3985,online subscriptions,Social Life
+116,24-11-2021,-106,buying food ingredients,Household
+117,25-11-2021,-3120,monthly transportation costs,Transportation
+118,26-11-2021,1111,transfer from mummy account,income
+119,27-11-2021,-4650,monthly food cost,Food
+120,28-11-2021,-40,buying panner,Food
+121,29-11-2021,-550,Doctor's Appointment,Health
+122,30-11-2021,-265,Going to gamezone with friends,Social Life
+123,01-12-2021,106666,Dividend,income
+124,02-12-2021,366,bonus salary,Income
+125,02-12-2021,-454,buying book,Self Development
+126,03-12-2021,-45,buying chocolate,Food
+127,04-12-2021,-85,rickshaw,Transportation
+128,05-12-2021,-454,to maid,Household
+129,06-12-2021,-215,medicine,Health
+130,07-12-2021,-1455,health insurance,Health
+131,08-12-2021,1244,lottery,Other
+132,09-12-2021,-566,movie and party,Social Life
+133,10-12-2021,-268,diwali gifts,Culture
+134,11-12-2021,-415,new utensils,Household
+135,12-12-2021,-598,yoga,Self Development
+136,13-12-2021,-40,chocolate,Food
+137,14-12-2021,-50,pen,Other
+138,15-12-2021,-200,mobile recharge,Other
+139,16-12-2021,666,Dividend,income
+140,17-12-2021,386,bonus salary,Income
+141,18-12-2021,-554,buying book,Self Development
+142,19-12-2021,-415,buying chocolate,Food
+143,20-12-2021,-83,rickshaw,Transportation
+144,21-12-2021,-454,to maid,Household
+145,22-12-2021,-255,medicine,Health
+146,23-12-2021,-1455,health insurance,Health
+147,24-12-2021,1244,lottery,Other
+148,25-12-2021,-566,movie and party,Social Life
+149,26-12-2021,-268,diwali gifts,Culture
+150,27-12-2021,-415,new utensils,Household
+151,28-12-2021,-598,yoga,Self Development
+152,29-12-2021,-40,chocolate,Food
+153,30-12-2021,-50,pen,Other
+154,31-12-2021,-200,mobile recharge,Other
