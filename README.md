@@ -40,12 +40,27 @@ that they are in the group of winners.
 First of all we wrote a code in python file named 'input.py' to take the input from the user in the format (Sr No.,Date,Amount,Description,Category) and store all
 the records in the file named 'MoneyManager.csv'. Then we wrote a program in the file 'Money-manager.py' to read the input from the csv file and then we did some 
 feature extraction on the data(like removing,merging some data, etc). Then we converted the dated in to the format MM-YYYY using pd.to_datetime() function.
-And then we made the first graph i.e. the 'Net worth chart' using plotly.graph_objects where the x-axis is date and y-axis is Amount.
+And then we made the first graph i.e. 
+1. the 'Net worth chart' using plotly.graph_objects where the x-axis is date and y-axis is Amount.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/net_worth.png">
 </p>
-Then we made a pie chart using plotly to display expenses per category. 
-Then we made a line chart called "Expenses_Breakdown_chart" which shows expenses on a category on a particular date.
-Then we made a bar graph to show the total monthly expenses.
-
-Then we also used Facebook Prophet neural network to predict future expenses that the user might incurr.
+2. Then we made a pie chart using plotly to display expenses per category. 
+<p align="center">
+<img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/pie_chart.png">
+</p>
+3. Then we made a line chart called "Expenses_Breakdown_chart" which shows expenses on a category on a particular date.
+<p align="center">
+<img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/expenses_breakdown.png">
+</p>
+4. Then we made a bar graph to show the total monthly expenses.
+<p align="center">
+<img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/total_monthly.png">
+</p>
+5. Then we also used Facebook Prophet neural network to predict future expenses that the user might incurr.
+<p align="center">
+<img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/facebook_prophet(1).png">
+</p>
+<p align="center">
+<img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/facebook_prophet(2).png">
+</p>
