@@ -41,7 +41,7 @@ First of all we wrote a code in python file named 'input.py' to take the input f
 the records in the file named 'MoneyManager.csv'. Then we wrote a program in the file 'Money-manager.py' to read the input from the csv file and then we did some 
 feature extraction on the data(like removing,merging some data, etc). Then we converted the dated in to the format MM-YYYY using pd.to_datetime() function.
 And then we made the first graph i.e. 
-1. the 'Net worth chart' using plotly.graph_objects where the x-axis is date and y-axis is Amount.
+<br>1. the 'Net worth chart' using plotly.graph_objects where the x-axis is date and y-axis is Amount.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/net_worth.png">
 </p>
@@ -64,3 +64,17 @@ And then we made the first graph i.e.
 <p align="center">
 <img src="https://github.com/prathammehta16/Money-Manager-1/blob/images/facebook_prophet(2).png">
 </p>
+
+## <b>Conclusion</b>
+<p>
+ The financial literacy is very low in 
+the world. Very few people track their 
+expenses and in turn they always
+spend way more than they need.
+Thus By using our App, the person 
+can continuously track their monthly 
+expenses, where they spent most of 
+their
+money, etc. which would help the 
+user to cut down their unneccessary 
+expenses.</p>
