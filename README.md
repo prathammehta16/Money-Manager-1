@@ -1,5 +1,6 @@
 # Money-Manager
-
+### Concepts used:
+Python, pandas, numpy, plotly, Dash, HTML, Jupyter Notebook,Deep learning, Facebook Prophet
 ## <b>Introduction</b>:
 The term Personal Finance refers 
 to how you manage your money and 
